@@ -1,4 +1,4 @@
-module github.com/go-leo/randx
+module github.com/go-leo/mathx
 
 go 1.19
 
